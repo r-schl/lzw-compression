@@ -2,7 +2,7 @@
 
 This is a simple console application that takes text as an argument and applies the LZW compression algorithm to it. It provides detailed information about the steps taken and the compression rate of the result. 
 
-A valid command and result might look like this: 
+### Example interaction
 
 ```
 python lzw.py mississippi
